@@ -15,7 +15,7 @@
 ### ✅3)	What is the average salary of Landmark Trained DevOps Engineer? 
 + The average salary is about $150,000/yr. for a single job.
 + The highest paid Landmark Engineers are making over $700,000/year. 
-# NB: You can start making millions of dollars via our coaching programs that helps Engineers start their own IT companies.
+### NB: You can start making millions of dollars via our coaching programs that helps Engineers start their own IT companies.
 ``` sh
 #!/bin/bash
 # Use this script to install tomcat in rehat servers
