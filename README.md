@@ -16,6 +16,8 @@
 + The average salary is about $150,000/yr. for a single job.
 + The highest paid Landmark Engineers are making over $700,000/year. 
 #### NB: You can start making millions of dollars via our coaching programs that helps Engineers start their own IT companies.
+
+### ✅4)	Which kind of job(s) can I do after completing Landmark DevOps Master Program?
 ``` sh
 #!/bin/bash
 # Use this script to install tomcat in rehat servers
