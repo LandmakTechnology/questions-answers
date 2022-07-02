@@ -3,23 +3,15 @@
 ### **Email: mylandmarktech@gmail.com**
 
 ## Commonly ask questions and answers.
+### 1. Who can study Landmark DevOps E. Degree Master Program?
+#	
+##
++ Anyone who graduated from High School.
++ At least 18 year old
 
-What to know about Landmark
-# 1. Who can study Landmark DevOps E. Degree Master Program?
-#	Anyone who graduated from High School.
-
-
-
-##### Prerequisite
-+ AWS Acccount.
-+ Create Redhat EC2 T2.micro Instnace.
-+ Create Security Group and open Tomcat ports or Required ports.
-   + 8080 ..etc
-+ Attach Security Group to EC2 Instance.
-+ Install java openJDK 1.8+
-
-### Tomcat version 9.0.62 with Java JDK 1.8+ 
-## Java JDK 1.8+ is the pre-requisite for tomcat to run
+## ✅2)	I don't have an IT Background. Can I still do this course and succeed? 
+###     Yes. We take you from zero IT background to become a highly skilled and Professional IT & DevOps Engineer.
+### Over 95% of our graduates working today had no prior IT background before joining.
 
 ``` sh
 #!/bin/bash
