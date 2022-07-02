@@ -3,7 +3,7 @@
 ### **Email: mylandmarktech@gmail.com**
 
 ## Commonly ask questions and answers.
-### 1. Who can study Landmark DevOps E. Degree Master Program?
+### ✅1). Who can study Landmark DevOps E. Degree Master Program?
 + Anyone who graduated from High School.
 + At least 18 year old
 
