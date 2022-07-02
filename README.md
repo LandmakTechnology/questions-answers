@@ -62,6 +62,3 @@
 
 ## Goodnews:
 Landmark 100% job guarantee DevOps E. Degree Master Program with AWS, Linux and Kubernetes, have trained and graduated Engineers from backgrounds including; University Professors,  Pharmacists, CPAs, ACCAs, CFAs, Lawyers, Accountants, Bankers, Entrepreneurs, Nurses, RN, CNAs, Drivers, Scrum Master, Factory workers, PSW, DSW, students, etc.
-
-
-``` sh
