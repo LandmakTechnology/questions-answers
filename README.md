@@ -18,30 +18,50 @@
 #### NB: You can start making millions of dollars via our coaching programs that helps Engineers start their own IT companies.
 
 ### ✅4)	Which kind of job(s) can I do after completing Landmark DevOps Master Program?
-``` sh
-#!/bin/bash
-# Use this script to install tomcat in rehat servers
-echo delete the failed version of tomcat
-sudo rm -rf /opt/tomcat9
-echo assign a hostname to your server 
-sudo hostname tomcat
-# install Java JDK 1.8+ as a pre-requisit for tomcat to run.
-cd /opt 
-sudo yum install git wget -y
-sudo yum install java-1.8.0-openjdk-devel -y
-# Download tomcat software and extract it.
-sudo yum install wget unzip -y
 
-sudo wget https://dlcdn.apache.org/tomcat/tomcat-9/v9.0.62/bin/apache-tomcat-9.0.62.tar.gz
-sudo tar -xvf apache-tomcat-9.0.62.tar.gz
-sudo rm apache-tomcat-9.0.62.tar.gz
-sudo mv apache-tomcat-9.0.62 tomcat9
-sudo chmod 777 -R /opt/tomcat9
-sudo chown ec2-user -R /opt/tomcat9
-sh /opt/tomcat9/bin/startup.sh
-# create a soft link to start and stop tomcat
-sudo ln -s /opt/tomcat9/bin/startup.sh /usr/bin/starttomcat
-sudo ln -s /opt/tomcat9/bin/shutdown.sh /usr/bin/stoptomcat
-sudo yum update -y
-starttomcat
-```
+ 1. DevOps Engineer or SRE,
+ 2. DevSecOps Engineer
+ 3. Cloud Engineer and/or 
+ 4. AWS Cloud Engineer,
+ 4. Platform Engineer 
+ 5. Infrastructure Engineer,
+ 6. Kubernetes Engineer or 
+ 7. Sr. IT Recruiter,
+ 8. IT Project Manager  
+ 9. Scrum Master
+ 10. Build and Release Engineer
+ 
+ ### ✅5)	How much is the fee, and can I pay in installments?
++ The fee is $3,500 USD and can be paid in minimum installments of $700/month.
++ You can also pay the complete fee upfront.
++ Please, use your name with class29 as payment reference/message and send screen-shots after each payment.
+
+### ✅6)	How can I pay my fees?
++ Pay using: Interact, ZELLE, CASHapp or PayPal
++ Payment Email: payment@mylandmarktech.com   
+
+### ✅7)	When is the next classes starting?  
++ Class29 from July 9, 2022 - May 21, 2022:
++ Time-Table
++ Mon: 7PM - 10PM EST
++ TUES: 7PM - 10PM EST
++ Sat: 11:45AM - 2:45PM  EST  
+
+### ✅8)	What is the duration of the course?  
++ 4 months plus bootcamp.
+
+### ✅9)	Which kind of computer will I need for the course?
++ A computer with at least 8GB RAM, 500G, 14 inches screen.
+
+### ✅10) Course bonuses?
++ BootCamp (Resume preparation, Linkedin profiling and interview reviews).
++ Both academic and work references.
++ Daily interview sessions
++ 100% job guarantee.
++ The Grace of God at work in Landmark Technologies.
+
+## Goodnews:
+Landmark 100% job guarantee DevOps E. Degree Master Program with AWS, Linux and Kubernetes, have trained and graduated Engineers from backgrounds including; University Professors,  Pharmacists, CPAs, ACCAs, CFAs, Lawyers, Accountants, Bankers, Entrepreneurs, Nurses, RN, CNAs, Drivers, Scrum Master, Factory workers, PSW, DSW, students, etc.
+
+
+``` sh
