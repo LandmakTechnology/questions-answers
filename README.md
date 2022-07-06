@@ -5,7 +5,7 @@
 ## Commonly ask questions and answers.
 ### ✅1). Who can study Landmark DevOps E. Degree Master Program?
 + Anyone who graduated from High School.
-+ At least 18 year old
++ At least 18 years old
 
 
 ### ✅2)	I don't have an IT Background. Can I still do this course and succeed? 
