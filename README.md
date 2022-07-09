@@ -41,7 +41,7 @@
 + Payment Email: payment@mylandmarktech.com   
 
 ### ✅7)	When is the next classes starting?  
-+ Class29 from July 9, 2022 - May 21, 2022:
++ Class29 from July 9, 2022 - Nov 21, 2022:
 + Time-Table
 + Mon: 7PM - 10PM EST
 + TUES: 7PM - 10PM EST
