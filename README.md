@@ -19,7 +19,7 @@
 
 ### ✅4)	Which kind of job(s) can I do after completing Landmark DevOps Master Program?
 
- 1. DevOps Engineer or SRE,
+ 1. DevOps Engineer,
  2. DevSecOps Engineer
  3. Cloud Engineer and/or 
  4. AWS Cloud Engineer,
@@ -30,6 +30,7 @@
  8. IT Project Manager  
  9. Scrum Master
  10. Build and Release Engineer
+ 11. SRE
  
  ### ✅5)	How much is the fee, and can I pay in installments?
 + The fee is $3,500 USD and can be paid in minimum installments of $700/month.
