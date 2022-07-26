@@ -48,6 +48,12 @@
 + TUES: 7PM - 10PM EST
 + Sat: 11:45AM - 2:45PM  EST  
 
+### Class30 from Oct 8, 2022 - Feb 21, 2023:
++ Time-Table
++ Thus: 7PM - 10PM EST
++ Sat: 8AM - 11AM  EST  
++ Sun: 3PM - 6PM EST
+
 ### ✅8)	What is the duration of the course?  
 + 4 months plus bootcamp.
 
