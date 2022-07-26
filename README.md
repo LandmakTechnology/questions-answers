@@ -32,17 +32,17 @@
  10. Build and Release Engineer
  11. SRE
  
- ### ✅5)	How much is the fee, and can I pay in installments?
+ ## ✅5)	How much is the fee, and can I pay in installments?
 + The fee is $3,500 USD and can be paid in minimum installments of $700/month.
 + You can also pay the complete fee upfront.
 + Please, use your name with class29 as payment reference/message and send screen-shots after each payment.
 
-### ✅6)	How can I pay my fees?
+## ✅6)	How can I pay my fees?
 + Pay using: Interact, ZELLE, CASHapp or PayPal
 + Payment Email: payment@mylandmarktech.com   
 
-### ✅7)	When is the next classes starting?  
-+ Class29 from July 9, 2022 - Nov 21, 2022:
+## ✅7)	When is the next classes starting?  
+### Class29 from July 9, 2022 - Nov 21, 2022:
 + Time-Table
 + Mon: 7PM - 10PM EST
 + TUES: 7PM - 10PM EST
@@ -54,13 +54,13 @@
 + Sat: 8AM - 11AM  EST  
 + Sun: 3PM - 6PM EST
 
-### ✅8)	What is the duration of the course?  
+## ✅8)	What is the duration of the course?  
 + 4 months plus bootcamp.
 
-### ✅9)	Which kind of computer will I need for the course?
+## ✅9)	Which kind of computer will I need for the course?
 + A computer with at least 8GB RAM, 500G, 14 inches screen.
 
-### ✅10) Course bonuses?
+## ✅10) Course bonuses?
 + BootCamp (Resume preparation, Linkedin profiling and interview reviews).
 + Both academic and work references.
 + Daily interview sessions
