@@ -33,7 +33,7 @@
  11. SRE
  
  ## ✅5)	How much is the fee, and can I pay in installments?
-+ The fee is $3,500 USD and can be paid in minimum installments of $700/month.
++ The fee is $3,600 USD and can be paid in minimum installments of $700/month.
 + You can also pay the complete fee upfront.
 + Please, use your name with class29 as payment reference/message and send screen-shots after each payment.
 
@@ -42,18 +42,16 @@
 + Payment Email: payment@mylandmarktech.com   
 
 ## ✅7)	When is the next classes starting?  
-### Class29 from July 9, 2022 - Nov 21, 2022:
-+ Time-Table
-+ Mon: 7PM - 10PM EST
-+ TUES: 7PM - 10PM EST
-+ Sat: 11:45AM - 2:45PM  EST  
-
 ### Class30 from Oct 8, 2022 - Feb 21, 2023:
 + Time-Table
 + Thus: 7PM - 10PM EST
 + Sat: 8AM - 11AM  EST  
 + Sun: 3PM - 6PM EST
-
+### Class31 from January 7, 2023 - Nov 21, 2023:
++ Time-Table
++ Mon: 7PM - 10PM EST
++ TUES: 7PM - 10PM EST
++ Sat: 11:45AM - 2:45PM  EST  
 ## ✅8)	What is the duration of the course?  
 + 4 months plus bootcamp.
 
