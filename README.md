@@ -46,6 +46,7 @@
 ## ✅6)	How can I pay my fees?
 + Pay using: Interact, ZELLE, CASHapp or PayPal
 + Payment Email: payment@mylandmarktech.com   
++ Payment name: Dominion Systems Inc.  
 
 
 ### Class31 from January 7, 2023 - April 21, 2023:
