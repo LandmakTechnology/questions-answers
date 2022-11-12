@@ -8,11 +8,11 @@
 + At least 18 years old
 
 ## ✅1b)	When is the next classes starting?  
-### Class30 from Oct 8, 2022 - Feb 21, 2023:
+### Class31 from January 7, 2023 - April 21, 2023:
 + Time-Table
-+ Thus: 7PM - 10PM EST
-+ Sat: 8AM - 11AM  EST  
-+ Sun: 3PM - 6PM EST
++ Mon: 7PM - 10PM EST
++ TUES: 7PM - 10PM EST
++ Sat: 11:45AM - 2:45PM  EST 
 
 ### ✅2)	I don't have an IT Background. Can I still do this course and succeed? 
 + Yes. We take you from zero IT background to become a highly skilled and Professional IT & DevOps Engineer.
