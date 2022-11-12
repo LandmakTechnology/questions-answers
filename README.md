@@ -8,7 +8,7 @@
 + At least 18 years old
 
 ## ✅1b)	When is the next classes starting?  
-### Class31 from January 7, 2023 - April 21, 2023:
+### Class31 from January 7, 2023 - May 21, 2023:
 + Time-Table
 + Mon: 7PM - 10PM EST
 + TUES: 7PM - 10PM EST
@@ -49,7 +49,7 @@
 + Payment name: Dominion Systems Inc.  
 
 
-### Class31 from January 7, 2023 - April 21, 2023:
+### Class31 from January 7, 2023 - May 21, 2023:
 + Time-Table
 + Mon: 7PM - 10PM EST
 + TUES: 7PM - 10PM EST
