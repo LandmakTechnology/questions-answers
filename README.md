@@ -2,7 +2,7 @@
 ### **<span style="color:green">Contacts: +1 437 215 2483, +1 571 453 6677, +1 437 221-3099 <br> WebSite : <http://mylandmarktech.com/></span>**
 ### **Email: mylandmarktech@gmail.com**
 
-## Commonly ask questions and answers.
+## Frequently asked questions and answers.
 ### ✅1). Who can study Landmark DevOps E. Degree Master Program?
 + Anyone who graduated from High School.
 + At least 18 years old
@@ -41,7 +41,7 @@
  ## ✅5)	How much is the fee, and can I pay in installments?
 + The fee is $3,600 USD and can be paid in minimum installments of $700/month.
 + You can also pay the complete fee upfront.
-+ Please, use your name with class29 as payment reference/message and send screen-shots after each payment.
++ Please type your name and class as payment reference/message and send screen-shots to Finance Admin +1 571 453 6677 through WhatsApp after each payment.
 
 ## ✅6)	How can I pay my fees?
 + Pay using: Interact, ZELLE, CASHapp or PayPal
