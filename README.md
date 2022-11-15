@@ -1,5 +1,5 @@
 #  **<span style="color:green">Landmark Technologies.</span>**
-### **<span style="color:green">Contacts: +1 437 215 2483, +1 571 453 6677, +1 437 221-3099 <br> WebSite : <http://mylandmarktech.com/></span>**
+### **<span style="color:green">Contacts: +1 437 215 2483 | +1 571 453 6677 | +1 437 221-3099 <br> WebSite : <http://mylandmarktech.com/></span>**
 ### **Email: mylandmarktech@gmail.com**
 
 ## Frequently asked questions and answers.
@@ -47,8 +47,6 @@
 + Pay using: Interact, ZELLE or PayPal
 + Payment Email: payment@mylandmarktech.com   
  
-
-
 ### Class31 from January 7, 2023 - May 21, 2023:
 + Time-Table
 + Mon: 7PM - 10PM EST
