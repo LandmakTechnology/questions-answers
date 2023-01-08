@@ -43,6 +43,12 @@
 + You can also pay the complete fee upfront.
 + Please type your name and class as payment reference/message and send screen-shots to Finance Admin +1 571 453 6677 and +1 437 215 2483 through WhatsApp/Telegram after each payment.
 
+## 5b) Fee payment for Cameroonian students:
+    mtn momo, sendwave or worldRemit. 
+    Tel: +237 6 72 83 16 03 [Simon Legah]
+    Adress: Buea, Cameroon 
+    Name: Landmark Technologies
+
 ## ✅6)	How can I pay my fees?
 + Pay using: Interact, ZELLE or PayPal
 + Payment Email: payment@mylandmarktech.com   
