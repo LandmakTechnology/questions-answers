@@ -44,7 +44,7 @@
 + Please type your name and class as payment reference/message and send screen-shots to Finance Admin +1 571 453 6677 and +1 437 215 2483 through WhatsApp/Telegram after each payment.
 
 ## 5b) Fee payment for Cameroonian students:
-    mtn momo, sendwave or worldRemit. 
+    MTN momo. 
     Tel: +237 6 75 30 67 66
     Name: Simon Legah
 
