@@ -45,12 +45,11 @@
 
 ## 5b) Fee payment for Cameroonian students:
     mtn momo, sendwave or worldRemit. 
-    Tel: +237 6 72 83 16 03 [Simon Legah]
-    Adress: Buea, Cameroon 
-    Name: Landmark Technologies
+    Tel: +237 6 75 30 67 66
+    Name: Simon Legah
 
 ## ✅6)	How can I pay my fees?
-+ Pay using: Interact, ZELLE or PayPal
++ Pay using: Interact, ZELLE, CashApp or PayPal
 + Payment Email: payment@mylandmarktech.com   
  
 ### Class31 from January 7, 2023 - May 21, 2023:
