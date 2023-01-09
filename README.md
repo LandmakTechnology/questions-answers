@@ -1,7 +1,6 @@
 #  **<span style="color:green">Landmark Technologies.</span>**
 ### **<span style="color:green">Contacts: +1 437 221-3099  | +1 (470) 483-2473  | +1 571 453 6677 | +1 437 215 2483 <br> WebSite : <https://mylandmarktech.com/></span>**
 ### **Email: mylandmarktech@gmail.com**
-
 ## Frequently asked questions and answers.
 ### ✅1). Who can study Landmark DevOps E. Degree Master Program?
 + Anyone who graduated from High School.
