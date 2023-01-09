@@ -5,12 +5,14 @@
 ### ✅1). Who can study Landmark DevOps E. Degree Master Program?
 + Anyone who graduated from High School.
 + At least 18 years old
+
 ## Telephone/Whatsapp and Telegram contacts
-+1 437 215 2483
-+1 437 221-3099  
-+1 (470) 483-2473  
-+1 571 453 6677
-+1 206 210 4445
+# contacts
++ 1 437 215 2483
++ 1 437 221-3099   
++ 1 (470) 483-2473  
++ 1 571 453 6677
++ 1 206 210 4445
 
 
 ## ✅1b)	When is the next classes starting?  
