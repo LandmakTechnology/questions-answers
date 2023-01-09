@@ -11,7 +11,10 @@
 + +1 571 453 6677
 + +1 206 210 4445
 ## Beware of scammers and hackers asking you to;
-+ join meetings
-+ make payments
++ join fake meetings
++ click on links 
++ send code to them
++ make urgent payments
 + among others
-+ Only communicate with us using the numbers above
+## Only communicate with us using the contacts above.
+# Remain blessed. Your destiny is safe in JESUS NAME. AMEN
