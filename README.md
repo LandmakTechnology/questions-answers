@@ -8,11 +8,11 @@
 
 ## Telephone/Whatsapp and Telegram contacts
 # contacts
-+ 1 437 215 2483
-+ 1 437 221-3099   
-+ 1 (470) 483-2473  
-+ 1 571 453 6677
-+ 1 206 210 4445
++ +1 437 215 2483
++ +1 437 221-3099   
++ +1 (470) 483-2473  
++ +1 571 453 6677
++ +1 206 210 4445
 
 
 ## ✅1b)	When is the next classes starting?  
