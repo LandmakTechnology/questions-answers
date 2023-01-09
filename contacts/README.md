@@ -3,7 +3,6 @@
 ### **<span style="color:green">WhatsApp: <https://wa.me/message/VXLCBQZHWNEEE1/></span>**
 ### **<span style="color:green">Telegram: <https://t.me/SimonLegah/></span>**
 ### **Email: mylandmarktech@gmail.com**
-## Frequently asked questions and answers.
 ## Tel/Whatsapp and Telegram contacts
 + +1 437 215 2483
 + +1 437 221-3099   
