@@ -1,7 +1,6 @@
 #  **<span style="color:green">Landmark Technologies.</span>**
 ### **<span style="color:green">Contacts:  <br> WebSite : <https://mylandmarktech.com/></span>**
-###Message Landmark Technologies on . 
-### **<span style="color:green">WhatsApp:  <br> WebSite : <https://wa.me/message/VXLCBQZHWNEEE1/></span>**
+### **<span style="color:green">WhatsApp:  <br> WhatsApp: <https://wa.me/message/VXLCBQZHWNEEE1/></span>**
 ### **Email: mylandmarktech@gmail.com**
 ## Frequently asked questions and answers.
 ### ✅1). Who can study Landmark DevOps E. Degree Master Program?
