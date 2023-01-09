@@ -1,6 +1,6 @@
 #  **<span style="color:green">Landmark Technologies.</span>**
 ### **<span style="color:green">Contacts:  <br> WebSite : <https://mylandmarktech.com/></span>**
-### **<span style="color:green">WhatsApp:  <br> WhatsApp: <https://wa.me/message/VXLCBQZHWNEEE1/></span>**
+### **<span style="color:green"> <br> WhatsApp: <https://wa.me/message/VXLCBQZHWNEEE1/></span>**
 ### **Email: mylandmarktech@gmail.com**
 ## Frequently asked questions and answers.
 ## Tel/Whatsapp and Telegram contacts
