@@ -16,7 +16,7 @@
 
 
 ## ✅1b)	When is the next classes starting?  
-### Class31 from January 7, 2023 - May 21, 2023:
+### Class31 from January 10, 2023 - May 21, 2023:
 + Time-Table
 + Mon: 7PM - 10PM EST
 + TUES: 7PM - 10PM EST
@@ -60,11 +60,11 @@
 + Pay using: Interact, ZELLE, CashApp or PayPal
 + Payment Email: payment@mylandmarktech.com   
  
-### Class31 from January 7, 2023 - May 21, 2023:
+### Class32 from April 15, 2023 - August 25, 2023:
 + Time-Table
-+ Mon: 7PM - 10PM EST
-+ TUES: 7PM - 10PM EST
-+ Sat: 11:45AM - 2:45PM  EST  
++ Thurs: 7PM - 10PM EST
++ Sat:   8AM - 11AM EST
++ Sun:   3PM -  6PM EST  
 ## ✅8)	What is the duration of the course?  
 + 4 months plus bootcamp.
 
