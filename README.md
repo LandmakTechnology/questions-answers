@@ -55,6 +55,8 @@
     MTN momo. 
     Tel: +237 6 75 30 67 66
     Name: Simon Legah
+    Amount = 2,000,000frs
+    500,000frs/month
 
 ## ✅6)	How can I pay my fees?
 + Pay using: Interact, ZELLE, CashApp or PayPal
