@@ -16,7 +16,7 @@
 
 
 ## ✅1b)	When is the next classes starting?  
-### Class31 from January 10, 2023 - May 21, 2023:
+### Class31 from January 14, 2023 - May 21, 2023:
 + Time-Table
 + Mon: 7PM - 10PM EST
 + TUES: 7PM - 10PM EST
