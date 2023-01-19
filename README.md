@@ -52,15 +52,16 @@
 + Please type your name and class as payment reference/message and send screen-shots to Finance Admin +1 571 453 6677 and +1 437 215 2483 through WhatsApp/Telegram after each payment.
 
 ## 5b) Fee payment for Cameroonian students:
-    MTN momo. 
-    Tel: +237 6 75 30 67 66
-    Name: Simon Legah
+    MTN momo numbers. 
+    672831603 (Simon Legah)
+    675306766 (Fomban)
     Amount = 2,000,000frs
     500,000frs/month
 
 ## ✅6)	How can I pay my fees?
 + Pay using: Interact, ZELLE, CashApp or PayPal
 + Payment Email: payment@mylandmarktech.com   
++ Payment Email: sales@mylandmarktech.com
  
 ### Class32 from April 8, 2023 - August 25, 2023:
 + Time-Table
