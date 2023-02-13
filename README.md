@@ -63,7 +63,7 @@
 + Payment Email: payment@mylandmarktech.com   
 + Payment Email: sales@mylandmarktech.com
  
-### Class32 from April 8, 2023 - August 25, 2023:
+### Class32 from April 15, 2023 - August 25, 2023:
 + Time-Table
 + Thurs: 7PM - 10PM EST
 + Sat:   8AM - 11AM EST
