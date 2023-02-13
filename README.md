@@ -15,7 +15,7 @@
 + At least 18 years old
 
 
-## ✅1b)	When is the next classes starting?  
+## ✅1b)	When is the next class starting?  
 ### Class32 from April 15, 2023 - August 25, 2023:
 + Time-Table
 + Thurs: 7PM - 10PM EST
@@ -63,11 +63,12 @@
 + Payment Email: payment@mylandmarktech.com   
 + Payment Email: sales@mylandmarktech.com
  
-### Class32 from April 15, 2023 - August 25, 2023:
+###✅7) Class32 from April 15, 2023 - August 25, 2023:
 + Time-Table
 + Thurs: 7PM - 10PM EST
 + Sat:   8AM - 11AM EST
 + Sun:   3PM -  6PM EST  
+
 ## ✅8)	What is the duration of the course?  
 + 4 months plus bootcamp.
 
