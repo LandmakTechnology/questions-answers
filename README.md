@@ -16,11 +16,11 @@
 
 
 ## ✅1b)	When is the next classes starting?  
-### Class31 from January 14, 2023 - May 21, 2023:
+### Class32 from April 15, 2023 - August 25, 2023:
 + Time-Table
-+ Mon: 7PM - 10PM EST
-+ TUES: 7PM - 10PM EST
-+ Sat: 11:45AM - 2:45PM  EST 
++ Thurs: 7PM - 10PM EST
++ Sat:   8AM - 11AM EST
++ Sun:   3PM -  6PM EST  
 
 ### ✅2)	I don't have an IT Background. Can I still do this course and succeed? 
 + Yes. We take you from zero IT background to become a highly skilled and Professional IT & DevOps Engineer.
