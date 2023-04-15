@@ -54,7 +54,7 @@
 ## 5b) Fee payment for Cameroonian students:
     MTN momo numbers. 
     672831603 (Fomban Marie)
-    675306766 (Simon Legah )
+    675306766 (LANDMARK )
     Amount = 2,000,000frs
     500,000frs/month
 
