@@ -41,7 +41,7 @@
  5. Infrastructure Engineer,
  6. Kubernetes Engineer or 
  7. Sr. IT Recruiter,
- 8. IT Project Manager  
+ 8. Technical Project Manager  
  9. Scrum Master
  10. Build and Release Engineer
  11. SRE
@@ -67,13 +67,13 @@
 + Time-Table
 + Thurs: 7PM - 10PM EST
 + Sat:   8AM - 11AM EST
-+ Sun:   3PM -  6PM EST  
++ Sun:   3PM - 6PM EST  
 
 ## ✅8)	What is the duration of the course?  
 + 4 months plus bootcamp.
 
 ## ✅9)	Which kind of computer will I need for the course?
-+ A computer with at least 8GB RAM, 500G, 14 inches screen.
++ A computer with at least 8GB RAM, 256G or 500G, 14 inches screen.
 
 ## ✅10) Course bonuses?
 + BootCamp (Resume preparation, Linkedin profiling and interview reviews).
