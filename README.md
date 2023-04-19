@@ -49,7 +49,7 @@
  ## ✅5)	How much is the fee, and can I pay in installments?
 + The fee is $3,600 USD and can be paid in minimum installments of $700/month.($800 for the first month)
 + You can also pay the complete fee upfront.
-+ Please type your name and class as payment reference/message and send screen-shots to Finance Admin +1 571 453 6677 and +1 437 215 2483 through WhatsApp/Telegram after each payment.
++ Please type your name and class as payment reference/message and send screen-shots to Prof Legah +1 437 215 2483 through WhatsApp/Telegram after each payment.
 
 ## 5b) Fee payment for Cameroonian students:
     MTN momo numbers. 
