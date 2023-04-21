@@ -5,8 +5,9 @@
 ## Frequently asked questions and answers.
 ## Tel/Whatsapp and Telegram contacts
 + +1 437 215 2483
-+ +1 437 221-3099   
-+ +1 (470) 483-2473  
++ +1 437 221 3099 
++ +1 647 267 6399  
++ +1 470 483 2473  
 + +1 571 453 6677
 + +1 206 210 4445
 
@@ -62,7 +63,8 @@
 + Pay using: Interact, ZELLE, CashApp or PayPal
 + Payment Email: payment@mylandmarktech.com   
 + Payment Email: sales@mylandmarktech.com
- 
+  For payment through Paypal, request an invoice from +1 437 215 2483
+  
 ###✅7) Class32 from April 15, 2023 - August 25, 2023:
 + Time-Table
 + Thurs: 7PM - 10PM EST
