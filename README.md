@@ -50,7 +50,7 @@
  ## ✅5)	How much is the fee, and can I pay in installments?
 + The fee is $3,600 USD and can be paid in minimum installments of $700/month.($800 for the first month)
 + You can also pay the complete fee upfront.
-+ Please type your name and class as payment reference/message and send screen-shots to Prof Legah +1 437 215 2483 through WhatsApp/Telegram after each payment.
++ Please type your name and class as payment reference/message and send screen-shots to Prof Legah +1 437 215 2483 and +1 437 221 3099 through WhatsApp/Telegram after each payment.
 
 ## 5b) Fee payment for Cameroonian students:
     MTN momo numbers. 
@@ -63,7 +63,7 @@
 + Pay using: Interact, ZELLE, CashApp or PayPal
 + Payment Email: payment@mylandmarktech.com   
 + Payment Email: sales@mylandmarktech.com
-  For payment through Paypal, request an invoice from +1 437 215 2483 or +1 437 221 3099
++ For payment through Paypal, request an invoice from +1 437 215 2483 or +1 437 221 3099
   
 ###✅7) Class33 from from July 15, 2023 - November 25, 2023:
 + Time-Table
