@@ -17,11 +17,11 @@
 
 
 ## ✅1b)	When is the next class starting?  
-### Class32 from April 15, 2023 - August 25, 2023:
+### Class33 from July 15, 2023 - November 25, 2023:
 + Time-Table
-+ Thurs: 7PM - 10PM EST
-+ Sat:   8AM - 11AM EST
-+ Sun:   3PM -  6PM EST  
++ Mondays:   7PM - 10PM EST
++ Tuesdays:  7PM - 10PM EST
++ Saturdays: 7PM - 10PM EST  
 
 ### ✅2)	I don't have an IT Background. Can I still do this course and succeed? 
 + Yes. We take you from zero IT background to become a highly skilled and Professional IT & DevOps Engineer.
@@ -63,13 +63,13 @@
 + Pay using: Interact, ZELLE, CashApp or PayPal
 + Payment Email: payment@mylandmarktech.com   
 + Payment Email: sales@mylandmarktech.com
-  For payment through Paypal, request an invoice from +1 437 215 2483
+  For payment through Paypal, request an invoice from +1 437 215 2483 or +1 437 221 3099
   
-###✅7) Class32 from April 15, 2023 - August 25, 2023:
+###✅7) Class33 from from July 15, 2023 - November 25, 2023:
 + Time-Table
-+ Thurs: 7PM - 10PM EST
-+ Sat:   8AM - 11AM EST
-+ Sun:   3PM - 6PM EST  
++ Mondays:   7PM - 10PM EST
++ Tuesdays:  7PM - 10PM EST
++ Saturdays: 7PM - 10PM EST  
 
 ## ✅8)	What is the duration of the course?  
 + 4 months plus bootcamp.
