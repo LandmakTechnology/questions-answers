@@ -55,6 +55,7 @@
 ## 5b) Fee payment for Cameroonian students:
     MTN momo numbers. 
     +237 675306766 (LANDMARK )
+    +237 672649710 (CUCCAS 3 )
     Amount = 2,000,000frs
     500,000frs/month
 
