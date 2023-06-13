@@ -60,7 +60,7 @@
     500,000frs/month
 
 ## ✅6)	How can I pay my fees?
-+ Pay using: Interact, ZELLE, CashApp or PayPal
++ Pay using: Interact, ZELLE, CashApp 
 + Payment Email: payment@mylandmarktech.com   
 + Payment Email: sales@mylandmarktech.com
 + For payment through Paypal, request an invoice from +1 437 215 2483 or +1 437 221 3099
