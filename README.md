@@ -62,7 +62,6 @@
 ## ✅6)	How can I pay my fees?
 + Pay using: Interact, ZELLE, CashApp 
 + Payment Email: payment@mylandmarktech.com   
-+ Payment Email: sales@mylandmarktech.com
 + For payment through Paypal, request an invoice from +1 437 215 2483 or +1 437 221 3099
   
 ## ✅7) Class33 from from July 15, 2023 - November 25, 2023:
