@@ -60,11 +60,11 @@
     500,000frs/month
     
 ## ✅5c) Fee payment for Nigerian students in Nigeria:
-   Bank Name; Access bank 
-   Account No:1792097045
-   Account name: LANDMARKS TECHNOLOGIES SCHL NIG. LTD
-    Amount = N2,000,000
-   N500,000/month
+  + Bank Name; Access bank 
+  + Account No:1792097045
+  + Account name: LANDMARKS TECHNOLOGIES SCHL NIG. LTD
+  + Amount = N2,000,000
+  + N500,000/month
    
 ## ✅6)	How can I pay my fees?
 + Pay using: Interact, ZELLE, CashApp 
