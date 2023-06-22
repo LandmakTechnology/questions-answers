@@ -52,14 +52,14 @@
 + You can also pay the complete fee upfront.
 + Please type your name and class as payment reference/message and send screen-shots to Prof Legah +1 437 215 2483 and +1 437 221 3099 through WhatsApp/Telegram after each payment.
 
-## 5b) Fee payment for Cameroonian students in Cameroon:
+## ✅5b) Fee payment for Cameroonian students in Cameroon:
     MTN momo numbers. 
     +237 675306766 (LANDMARK )
     +237 672649710 (CUCCAS 3 )
     Amount = 2,000,000frs
     500,000frs/month
     
-## 5c) Fee payment for Nigerian students in Nigeria:
+## ✅5c) Fee payment for Nigerian students in Nigeria:
    Bank Name; Access bank 
    Account No:1792097045
    Account name: LANDMARKS TECHNOLOGIES SCHL NIG. LTD
