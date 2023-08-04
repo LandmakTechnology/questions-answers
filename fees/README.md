@@ -13,7 +13,7 @@ FEE PAYMENT
 
 ## ✅3)	How can I pay my fees?
 + Pay using: Interact, ZELLE, CashApp or PayPal
-+ Payment Email: payment@mylandmarktech.com   
++ Payment Email: fees@mylandmarktech.com   
 
  
  ## ✅5)	How much is the fee, and can I pay in installments?
@@ -37,5 +37,5 @@ FEE PAYMENT
    
 ## ✅6)	How can I pay my fees?
 + Pay using: Interact, ZELLE, CashApp 
-+ Payment Email: payment@mylandmarktech.com   
++ Payment Email: fees@mylandmarktech.com   
 + For payment through Paypal, request an invoice from +1 437 215 2483 or +1 437 221 3099
