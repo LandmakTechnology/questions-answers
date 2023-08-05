@@ -13,8 +13,17 @@ FEE PAYMENT
 
 ## ✅3)	How can I pay my fees?
 + Pay using: Interact, ZELLE, CashApp or PayPal
-+ Payment Email: fees@mylandmarktech.com   
++ Fee payment for USA students.
+    *Use ZELLE or CashApp*
+    fees@mylandmarktech.com
+  
 
+Fee payment for Canadian student
+    Interact e-transfer:
+    Email: Payment@mylandmarktech.com 
+
+For Europe/Africa/Asia/American students:
+    PayPal (And credit card payment)--send a message for the Paypal invoice
  
  ## ✅5)	How much is the fee, and can I pay in installments?
 + The fee is $3,600 USD and can be paid in minimum installments of $700/month.($800 for the first month)
