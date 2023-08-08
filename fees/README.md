@@ -20,7 +20,7 @@ FEE PAYMENT
 
 Fee payment for Canadian student
     Interact e-transfer:
-    Email: Payment@mylandmarktech.com 
+    Email: fees@mylandmarktech.com 
 
 For Europe/Africa/Asia/American students:
     PayPal (And credit card payment)--send a message for the Paypal invoice
