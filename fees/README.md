@@ -17,7 +17,6 @@ FEE PAYMENT
     *Use ZELLE or CashApp*
     fees@mylandmarktech.com
   
-
 Fee payment for Canadian student
     Interact e-transfer:
     Email: fees@mylandmarktech.com 
@@ -41,8 +40,9 @@ For Europe/Africa/Asia/American students:
   + Bank Name; Access bank 
   + Account No:1792097045
   + Account name: LANDMARKS TECHNOLOGIES SCHL NIG. LTD
-  + Amount = N2,000,000
+  + Amount = N2,500,000
   + N500,000/month
+  + payable in 5 installments
    
 ## ✅6)	How can I pay my fees?
 + Pay using: Interact, ZELLE, CashApp 
