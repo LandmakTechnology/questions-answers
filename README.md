@@ -64,7 +64,7 @@
   + Bank Name; Access bank 
   + Account No:1792097045
   + Account name: LANDMARKS TECHNOLOGIES SCHL NIG. LTD
-  + Amount = N2,000,000
+  + Amount = N2,500,000
   + N500,000/month
    
 ## ✅6)	How can I pay my fees?
@@ -72,14 +72,14 @@
 + Payment Email: fees@mylandmarktech.com   
 + For payment through Paypal, request an invoice from +1 437 215 2483 or +1 437 221 3099
   
-## ✅7) Class33 from from July 15, 2023 - November 25, 2023:
-+ Time-Table
-+ Mondays:   7PM - 10PM EST
-+ Tuesdays:  7PM - 10PM EST
-+ Saturdays: 7PM - 10PM EST  
-
+## ✅7) Class34 from Oct 14, 2023 - Feb 28,2024
+Timetable
++ Thursdays: 7PM -10PM EST
++ Saturdays: 8AM -11AM EST
++ Sundays:  4PM-7PM
+  
 ## ✅8)	What is the duration of the course?  
-+ 4 months plus bootcamp.
++ 4 months plus free Bootcamp.
 
 ## ✅9)	Which kind of computer will I need for the course?
 + A computer with at least 8GB RAM, 256G or 500G, 14 inches screen.
