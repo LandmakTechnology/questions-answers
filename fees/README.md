@@ -7,7 +7,7 @@ FEE PAYMENT
 
 ## ✅2) Fee payment for Cameroonian students:
     MTN momo number.
-    +237 675306766 (Simon Legah )
+    +237 675306766 (Landmark Higher Institute )
     Amount = 2,000,000frs
     500,000frs/month
 
