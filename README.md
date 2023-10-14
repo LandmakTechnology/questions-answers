@@ -20,7 +20,6 @@
 ## ✅1b)	When is the next class starting?  
 ### Class 34:  Oct 14, 2023 - Feb 28, 2024:
 + Time-Table:
-
 + THURS: 7PM - 10PM EST
 + SAT  : 8AM - 11AM EST
 + SUN  : 4PM - 7PM  EST
