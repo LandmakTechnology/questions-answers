@@ -20,10 +20,10 @@
 ## ✅1b)	When is the next class starting?  
 ### Class 34:  Oct 14, 2023 - Feb 28, 2024:
 + Time-Table:
+Time-Table:
 THURS: 7PM - 10PM EST
-SAT  : 7PM - 10PM EST
+SAT  : 8AM - 11AM EST
 SUN  : 4PM - 7PM  EST
-
 ### ✅2)	I don't have an IT Background. Can I still do this course and succeed? 
 + Yes. We take you from zero IT background to become a highly skilled and Professional IT & DevOps Engineer.
 + Over 95% of our graduates working today had no prior IT background before joining.
