@@ -1,8 +1,9 @@
 #  **<span style="color:green">Landmark Technologies.</span>**
 ### **<span style="color:green">Contacts:  <br> WebSite : <https://mylandmarktech.com/></span>**
 ### **<span style="color:green">WhatsApp: <https://wa.me/message/VXLCBQZHWNEEE1/></span>**
-### **Email: mylandmarktech@gmail.com**
-### **Email: fees@mylandmarktech.com**
+### **Email: mylandmarktech@gmail.com **
+### **Payment Email: fees@mylandmarktech.com **
+### **Success Stories: http://mylandmarktech.com/success **
 ## Frequently asked questions and answers.
 ## Tel/Whatsapp and Telegram contacts
 + +1 437 215 2483
@@ -20,16 +21,16 @@
 ## ✅1b)	When is the next class starting?  
 ### Class 34:  Oct 14, 2023 - Feb 28, 2024:
 + Time-Table:
-+ THURS: 7PM - 10PM EST
++ THURS: 7 PM - 10 PM EST
 + SAT  : 8AM - 11AM EST
-+ SUN  : 4PM - 7PM  EST
++ SUN: 4 PM - 7 PM  EST
 ### ✅2)	I don't have an IT Background. Can I still do this course and succeed? 
-+ Yes. We take you from zero IT background to become a highly skilled and Professional IT & DevOps Engineer.
++ Yes. We take you from a zero IT background to become a highly skilled and Professional IT & DevOps Engineer.
 + Over 95% of our graduates working today had no prior IT background before joining.
 
-### ✅3)	What is the average salary of Landmark Trained DevOps Engineer? 
+### ✅3)	What is the average salary of a Landmark Trained DevOps Engineer? 
 + The average salary is about $150,000/yr. for a single job.
-+ The highest paid Landmark Engineers are making over $700,000/year. 
++ The highest-paid Landmark Engineers are making over $700,000/year. 
 #### NB: You can start making millions of dollars via our coaching programs that helps Engineers start their own IT companies.
 
 ### ✅4)	Which kind of job(s) can I do after completing Landmark DevOps Master Program?
@@ -45,7 +46,26 @@
  8. Technical Project Manager  
  9. Scrum Master
  10. Build and Release Engineer
- 11. SRE
+ 11. Site Reliability Engineer (SRE)
+ 12. Cloud Architect
+ 13. Containerization Specialist
+ 14. Automation Engineer
+ 15. Security DevOps Engineer
+ 16. Cloud Migration Specialist
+ 17. Cloud Data Engineer
+ 18. Cloud Solution Architect
+ 19. AWS Solution Architect
+ 20. AWS Certified Developer
+ 21. DevOps Trainer/Instructor
+ 22. Continuous Integration/Continuous Deployment (CI/CD) Specialist
+ 23. Cloud Security Engineer
+ 24. DevOps Consultant
+ 25. Cloud Operations Specialist
+ 26. Serverless Engineer
+ 27. Multi-Cloud Specialist
+ 28. AWS Certified Data Analytics Specialist
+ 29. AWS IoT Developer
+ 30. Cloud Cost Optimization Analyst
  
  ## ✅5)	How much is the fee, and can I pay in installments?
 + The fee is $3,600 USD and can be paid in minimum installments of $700/month.($800 for the first month)
@@ -54,7 +74,7 @@
 
 ## ✅5b) Fee payment for Cameroonian students in Cameroon:
     MTN momo numbers. 
-    +237 675306766 (LANDMARK )
+    +237 675306766 (SIMON LEGAH )
     +237 672649710 (CUCCAS 3 )
     Amount = 2,000,000frs
     500,000frs/month
@@ -69,13 +89,13 @@
 ## ✅6)	How can I pay my fees?
 + Pay using: Interact, ZELLE, CashApp 
 + Payment Email: fees@mylandmarktech.com   
-+ For payment through Paypal, request an invoice from +1 437 215 2483 or +1 437 221 3099
++ For payment through Paypal, request an invoice from +1 437 215 2483 or +1 437 221 3099 through WhatsApp
   
-## ✅7) Class34 from Oct 14, 2023 - Feb 28,2024
+## ✅7) Class34 from Oct 14, 2023 - Feb 28, 2024
 Timetable
-+ Thursdays: 7PM -10PM EST
++ Thursdays: 7 PM -10 PM EST
 + Saturdays: 8AM -11AM EST
-+ Sundays:   4PM-7PM
++ Sundays:   4 PM-7 PM EST
   
 ## ✅8)	What is the duration of the course?  
 + 4 months plus free Bootcamp.
