@@ -66,6 +66,7 @@
  28. AWS Certified Data Analytics Specialist
  29. AWS IoT Developer
  30. Cloud Cost Optimization Analyst
+ 31. President/Vice president for Application support
  
  ## ✅5)	How much is the fee, and can I pay in installments?
 + The fee is $3,600 USD and can be paid in minimum installments of $700/month.($800 for the first month)
