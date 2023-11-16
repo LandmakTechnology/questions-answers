@@ -16,17 +16,22 @@
 ### ✅1). Who can study Landmark DevOps E. Degree Master Program?
 + Anyone who graduated from High School.
 + At least 18 years old
-
++ Individuals with a passion for technology and a keen interest in DevOps practices, automation, and infrastructure management.
++ Individuals looking to make a career change in the technology field, specifically in the domain of DevOps.
++ Suited for those who prefer or require remote learning opportunities, providing flexibility for individuals with various commitments.
+  
 
 ## ✅1b)	When is the next class starting?  
-### Class 34:  Oct 19, 2023 - Feb 28, 2024:
-+ Time-Table:
-+ THURS: 7 PM - 10 PM EST
-+ SAT  : 8AM - 11AM EST
-+ SUN: 4 PM - 7 PM  EST
+### Class35: January 13, 2024 - May 25, 2024   
+    + Time-Table
+    + Mon: 7PM - 10 PM EST
+    + Tue: 7PM - 10 PM EST
+    + Sat: 7PM - 10 PM EST
+
 ### ✅2)	I don't have an IT Background. Can I still do this course and succeed? 
 + Yes. We take you from a zero IT background to become a highly skilled and Professional IT & DevOps Engineer.
 + Over 95% of our graduates working today had no prior IT background before joining.
++ The course is designed with a step-by-step learning path, starting from the basics and gradually progressing to more advanced topics. This approach enables a smooth transition for beginners.
 
 ### ✅3)	What is the average salary of a Landmark Trained DevOps Engineer? 
 + The average salary is about $150,000/yr. for a single job.
@@ -70,8 +75,9 @@
  
  ## ✅5)	How much is the fee, and can I pay in installments?
 + The fee is $3,600 USD and can be paid in minimum installments of $700/month.($800 for the first month)
-+ You can also pay the complete fee upfront.
-+ Please type your name and class as payment reference/message and send screen-shots to Prof Legah +1 437 215 2483 and +1 437 221 3099 through WhatsApp/Telegram after each payment.
++ You can also pay the complete fee upfront. (recommended)
++ Please type your name and class as payment reference/message and send screen-shots to Prof Legah at +1 437 215 2483 and +1 437 221 3099 through WhatsApp/Telegram after each payment.
++ #### NB: Refrain from making Zelle or Cash App payments using phone numbers. Please use email only for transactions, sending payments to fees@mylandmarktech.com
 
 ## ✅5b) Fee payment for Cameroonian students in Cameroon:
     MTN momo numbers. 
@@ -105,11 +111,18 @@ Timetable
 + A computer with at least 8GB RAM, 256G or 500G, 14 inches screen.
 
 ## ✅10) Course bonuses?
-+ BootCamp (Resume preparation, Linkedin profiling and interview reviews).
++ BootCamp (Resume preparation, Linkedin profiling, and interview reviews).
 + Both academic and work references.
 + Daily interview sessions
 + 100% job oriented.
++ Hands-On Projects
++ Continuous Learning Resources
++ Collaborative Learning Environment
++ Industry-Standard Tools
++ Career Development
++ Lifetime Access to Course Material, Retain access to course materials even after completion, allowing you to revisit and reinforce concepts as needed.
++ Latest Industry Trends
 + The Grace of God is at work in Landmark Technologies.
-
-## Goodnews:
-Landmark 100% job oriented DevOps E. Degree Master Program with AWS, Linux and Kubernetes, have trained and graduated Engineers from backgrounds including; University Professors,  Pharmacists, CPAs, ACCAs, CFAs, Lawyers, Accountants, Bankers, Entrepreneurs, Nurses, RN, CNAs, Drivers, Scrum Master, Factory workers, PSW, DSW, students, etc.
+## Good news: http://mylandmarktech.com/success
+Landmark 100% job-oriented DevOps E. Degree Master Program with AWS, Linux, and Kubernetes, have trained and graduated Engineers from backgrounds including; University Professors,  Pharmacists, CPAs, ACCAs, CFAs, Lawyers, Accountants, Bankers, Entrepreneurs, Nurses, RN, CNAs, Drivers, Scrum Master, Factory workers, PSW, DSW, students, etc.
+## For a more visual experience, consider subscribing to our YouTube channel. Explore our videos by visiting: https://www.youtube.com/channel/UCa98yMG9Sxtcyk61li3jPwQ
