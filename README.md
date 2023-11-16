@@ -98,11 +98,11 @@
 + Payment Email: fees@mylandmarktech.com   
 + For payment through Paypal, request an invoice from +1 437 215 2483 or +1 437 221 3099 through WhatsApp
   
-## ✅7) Class34 from Oct 14, 2023 - Feb 28, 2024
-Timetable
-+ Thursdays: 7 PM -10 PM EST
-+ Saturdays: 8AM -11AM EST
-+ Sundays:   4 PM-7 PM EST
+## ✅7) Class35: January 13, 2024 - May 25, 2024   
+    + Time-Table
+    + Mon: 7PM - 10 PM EST
+    + Tue: 7PM - 10 PM EST
+    + Sat: 7PM - 10 PM EST
   
 ## ✅8)	What is the duration of the course?  
 + 4 months plus free Bootcamp.
@@ -120,9 +120,10 @@ Timetable
 + Collaborative Learning Environment
 + Industry-Standard Tools
 + Career Development
-+ Lifetime Access to Course Material, Retain access to course materials even after completion, allowing you to revisit and reinforce concepts as needed.
++ Access to Course Material, Retain access to course materials even after completion, allowing you to revisit and reinforce concepts as needed.
 + Latest Industry Trends
 + The Grace of God is at work in Landmark Technologies.
++ 
 ## Good news: http://mylandmarktech.com/success
 Landmark 100% job-oriented DevOps E. Degree Master Program with AWS, Linux, and Kubernetes, have trained and graduated Engineers from backgrounds including; University Professors,  Pharmacists, CPAs, ACCAs, CFAs, Lawyers, Accountants, Bankers, Entrepreneurs, Nurses, RN, CNAs, Drivers, Scrum Master, Factory workers, PSW, DSW, students, etc.
 ## For a more visual experience, consider subscribing to our YouTube channel. Explore our videos by visiting: https://www.youtube.com/channel/UCa98yMG9Sxtcyk61li3jPwQ
