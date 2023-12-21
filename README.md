@@ -48,8 +48,8 @@
  5. Infrastructure Engineer,
  6. Kubernetes Engineer or 
  7. Sr. IT Recruiter,
- 8. Technical Project Manager  
- 9. Scrum Master
+ 8. Technical Project Manager
+ 9.  Production Lead
  10. Build and Release Engineer
  11. Site Reliability Engineer (SRE)
  12. Cloud Architect
