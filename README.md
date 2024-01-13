@@ -105,7 +105,7 @@
     + Sun  : 4PM - 7 PM EST
   
 ## ✅8)	What is the duration of the course?  
-+ 4 months plus free Bootcamp.
++ 4.5 months plus free Bootcamp.
 
 ## ✅9)	Which kind of computer will I need for the course?
 + A computer with at least 8GB RAM, 256G or 500G, 14 inches screen.
@@ -123,7 +123,7 @@
 + Access to Course Material, Retain access to course materials even after completion, allowing you to revisit and reinforce concepts as needed.
 + Latest Industry Trends
 + The Grace of God is at work in Landmark Technologies.
-+ 
+  
 ## Good news: http://mylandmarktech.com/success
 Landmark 100% job-oriented DevOps E. Degree Master Program with AWS, Linux, and Kubernetes, have trained and graduated Engineers from backgrounds including; University Professors,  Pharmacists, CPAs, ACCAs, CFAs, Lawyers, Accountants, Bankers, Entrepreneurs, Nurses, RN, CNAs, Drivers, Scrum Master, Factory workers, PSW, DSW, students, etc.
 ## For a more visual experience, consider subscribing to our YouTube channel. Explore our videos by visiting: https://www.youtube.com/channel/UCa98yMG9Sxtcyk61li3jPwQ
