@@ -22,7 +22,7 @@
   
 
 ## ✅1b)	When is the next class starting?  
-### Class35: January 13, 2024 - May 25, 2024   
+### Class35: January 16, 2024 - May 25, 2024   
     + Time-Table
     + Mon: 7PM - 10 PM EST
     + Tue: 7PM - 10 PM EST
