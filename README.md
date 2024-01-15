@@ -90,8 +90,6 @@
   + Bank Name; Access bank 
   + Account No:1792097045
   + Account name: LANDMARKS TECHNOLOGIES SCHL NIG. LTD
-  + Amount = N2,500,000
-  + N500,000/month
    
 ## ✅6)	How can I pay my fees?
 + Pay using: Interact, ZELLE, CashApp 
