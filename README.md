@@ -22,12 +22,11 @@
   
 
 ## ✅1b)	When is the next class starting?  
-### Class35: January 16, 2024 - May 25, 2024   
+###  Class36: April 13, 2024 - August 24, 2024   
     + Time-Table
-    + Mon: 7PM - 10 PM EST
-    + Tue: 7PM - 10 PM EST
-    + Sat: 7PM - 10 PM EST
-
+    + Thurs: 7PM - 10 PM EST
+    + Sat  : 8AM - 11 AM EST
+    + Sun  : 4PM - 7 PM EST
 ### ✅2)	I don't have an IT Background. Can I still do this course and succeed? 
 + Yes. We take you from a zero IT background to become a highly skilled and Professional IT & DevOps Engineer.
 + Over 95% of our graduates working today had no prior IT background before joining.
@@ -96,7 +95,7 @@
 + Payment Email: fees@mylandmarktech.com   
 + For payment through Paypal, request an invoice from +1 437 215 2483 or +1 437 221 3099 through WhatsApp
   
-## ✅7) Class36: April 13, 2024 - August 28, 2024   
+## ✅7) Class36: April 13, 2024 - August 24, 2024   
     + Time-Table
     + Thurs: 7PM - 10 PM EST
     + Sat  : 8AM - 11 AM EST
