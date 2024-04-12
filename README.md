@@ -24,9 +24,10 @@
 ## ✅1b)	When is the next class starting?  
 ###  Class36: April 13, 2024 - August 24, 2024   
     + Time-Table
-    + Thurs: 7PM - 10 PM EST
-    + Sat  : 8AM - 11 AM EST
-    + Sun  : 4PM - 7 PM EST
+    + Thurs: 7 PM - 10 PM EST
+    + Sat  : 8 AM - 11 AM EST
+    + Sun: 4 PM - 7 PM EST
+    
 ### ✅2)	I don't have an IT Background. Can I still do this course and succeed? 
 + Yes. We take you from a zero IT background to become a highly skilled and Professional IT & DevOps Engineer.
 + Over 95% of our graduates working today had no prior IT background before joining.
@@ -35,7 +36,7 @@
 ### ✅3)	What is the average salary of a Landmark Trained DevOps Engineer? 
 + The average salary is about $150,000/yr. for a single job.
 + The highest-paid Landmark Engineers are making over $700,000/year. 
-#### NB: You can start making millions of dollars via our coaching programs that helps Engineers start their own IT companies.
+#### NB: You can start making millions of dollars via our coaching programs that help Engineers start their own IT companies.
 
 ### ✅4)	Which kind of job(s) can I do after completing Landmark DevOps Master Program?
 
@@ -95,11 +96,7 @@
 + Payment Email: fees@mylandmarktech.com   
 + For payment through Paypal, request an invoice from +1 437 215 2483 or +1 437 221 3099 through WhatsApp
   
-## ✅7) Class36: April 13, 2024 - August 24, 2024   
-    + Time-Table
-    + Thurs: 7PM - 10 PM EST
-    + Sat  : 8AM - 11 AM EST
-    + Sun  : 4PM - 7 PM EST
+## ✅7)### Class37: Starts July 13, 2024 - Ends November 23,2024 
   
 ## ✅8)	What is the duration of the course?  
 + 4.5 months plus free Bootcamp.
