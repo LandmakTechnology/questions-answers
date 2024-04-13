@@ -22,7 +22,7 @@
   
 
 ## ✅1b)	When is the next class starting?  
-###  Class36: April 13, 2024 - August 24, 2024   
+###  Class36: April 18, 2024 - August 24, 2024   
     + Time-Table
     + Thurs: 7 PM - 10 PM EST
     + Sat  : 8 AM - 11 AM EST
