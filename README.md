@@ -3,7 +3,6 @@
 ### **<span style="color:green">WhatsApp: <https://wa.me/message/VXLCBQZHWNEEE1/></span>**
 ### **Email: mylandmarktech@gmail.com **
 ### **Payment Email: fees@mylandmarktech.com **
-### **Success Stories: http://mylandmarktech.com/success **
 ## Frequently asked questions and answers.
 ## Tel/Whatsapp and Telegram contacts
 + +1 437 215 2483
@@ -29,13 +28,11 @@
     + Sun: 4 PM - 7 PM EST
     
 ### ✅2)	I don't have an IT Background. Can I still do this course and succeed? 
-+ Yes. We take you from a zero IT background to become a highly skilled and Professional IT & DevOps Engineer.
-+ Over 95% of our graduates working today had no prior IT background before joining.
 + The course is designed with a step-by-step learning path, starting from the basics and gradually progressing to more advanced topics. This approach enables a smooth transition for beginners.
 
 ### ✅3)	What is the average salary of a Landmark Trained DevOps Engineer? 
 + The average salary is about $150,000/yr. for a single job.
-+ The highest-paid Landmark Engineers are making over $700,000/year. 
+
 #### NB: You can start making millions of dollars via our coaching programs that help Engineers start their own IT companies.
 
 ### ✅4)	Which kind of job(s) can I do after completing Landmark DevOps Master Program?
@@ -106,7 +103,6 @@
 
 ## ✅10) Course bonuses?
 + BootCamp (Resume preparation, Linkedin profiling, and interview reviews).
-+ Both academic and work references.
 + Daily interview sessions
 + 100% job oriented.
 + Hands-On Projects
@@ -118,6 +114,5 @@
 + Latest Industry Trends
 + The Grace of God is at work in Landmark Technologies.
   
-## Good news: http://mylandmarktech.com/success
 Landmark 100% job-oriented DevOps E. Degree Master Program with AWS, Linux, and Kubernetes, have trained and graduated Engineers from backgrounds including; University Professors,  Pharmacists, CPAs, ACCAs, CFAs, Lawyers, Accountants, Bankers, Entrepreneurs, Nurses, RN, CNAs, Drivers, Scrum Master, Factory workers, PSW, DSW, students, etc.
 ## For a more visual experience, consider subscribing to our YouTube channel. Explore our videos by visiting: https://www.youtube.com/channel/UCa98yMG9Sxtcyk61li3jPwQ
