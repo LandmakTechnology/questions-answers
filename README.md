@@ -21,11 +21,12 @@
   
 
 ## ✅1b)	When is the next class starting?  
-###  Class36: April 18, 2024 - August 24, 2024   
+###  Class37: July 13, 2024 - November 30, 2024   
     + Time-Table
-    + Thurs: 7 PM - 10 PM EST
-    + Sat  : 8 AM - 11 AM EST
-    + Sun: 4 PM - 7 PM EST
+    + Mon: 7 PM - 10 PM EST
+    + Tue: 7 PM - 10 PM EST
+    + Sat:: 7 PM - 10 PM EST 
+Please use the following link to convert between time zones as needed:  Use https://www.timeanddate.com/worldclock/converter.html 
     
 ### ✅2)	I don't have an IT Background. Can I still do this course and succeed? 
 + The course is designed with a step-by-step learning path, starting from the basics and gradually progressing to more advanced topics. This approach enables a smooth transition for beginners.
@@ -93,7 +94,12 @@
 + Payment Email: fees@mylandmarktech.com   
 + For payment through Paypal, request an invoice from +1 437 215 2483 or +1 437 221 3099 through WhatsApp
   
-## ✅7)### Class37: Starts July 13, 2024 - Ends November 23,2024 
+## ✅7)### Class36: Ongoing Class
+ Class36: April 18, 2024 - August 24, 2024   
+    + Time-Table
+    + Thurs: 7 PM - 10 PM EST
+    + Sat  : 8 AM - 11 AM EST
+    + Sun: 4 PM - 7 PM EST
   
 ## ✅8)	What is the duration of the course?  
 + 4.5 months plus free Bootcamp.
