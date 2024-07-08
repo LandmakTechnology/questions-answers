@@ -72,7 +72,7 @@ Please use the following link to convert between time zones as needed:  Use http
  31. President/Vice president for Application support
  
  ## ✅5)	How much is the fee, and can I pay in installments?
-+ The fee is $3,600 USD and can be paid in minimum installments of $700/month.($800 for the first month)
++ The fee is $ 3,000 USD and can be paid in minimum installments of $750/month.
 + You can also pay the complete fee upfront. (recommended)
 + Please type your name and class as payment reference/message and send screen-shots to Prof Legah at +1 437 215 2483 and +1 437 221 3099 through WhatsApp/Telegram after each payment.
 + #### NB: Refrain from making Zelle or Cash App payments using phone numbers. Please use email only for transactions, sending payments to fees@mylandmarktech.com
@@ -94,13 +94,13 @@ Please use the following link to convert between time zones as needed:  Use http
 + Payment Email: fees@mylandmarktech.com   
 + For payment through Paypal, request an invoice from +1 437 215 2483 or +1 437 221 3099 through WhatsApp
   
-## ✅7)### Class36: Ongoing Class
- Class36: April 18, 2024 - August 24, 2024   
+## ✅7)### Class37: 
+Class37: July 13, 2024 - November 30, 2024   
     + Time-Table
-    + Thurs: 7 PM - 10 PM EST
-    + Sat  : 8 AM - 11 AM EST
-    + Sun: 4 PM - 7 PM EST
-  
+    + Mon: 7 PM - 10 PM EST
+    + Tue: 7 PM - 10 PM EST
+    + Sat:: 7 PM - 10 PM EST 
+
 ## ✅8)	What is the duration of the course?  
 + 4.5 months plus free Bootcamp.
 
