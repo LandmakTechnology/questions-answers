@@ -9,8 +9,6 @@
 + +1 437 221 3099 
 + +1 647 267 6399  
 + +1 470 483 2473  
-+ +1 571 453 6677
-+ +1 206 210 4445
 
 ### ✅1). Who can study Landmark DevOps E. Degree Master Program?
 + Anyone who graduated from High School.
@@ -21,7 +19,7 @@
   
 
 ## ✅1b)	When is the next class starting?  
-###  Class37: July 13, 2024 - November 30, 2024   
+###  Class37: July 16, 2024 - November 30, 2024   
     + Time-Table
     + Mon: 7 PM - 10 PM EST
     + Tue: 7 PM - 10 PM EST
@@ -95,7 +93,7 @@ Please use the following link to convert between time zones as needed:  Use http
 + For payment through Paypal, request an invoice from +1 437 215 2483 or +1 437 221 3099 through WhatsApp
   
 ## ✅7)### Class37: 
-Class37: July 13, 2024 - November 30, 2024   
+Class37: July 16, 2024 - November 30, 2024   
     + Time-Table
     + Mon: 7 PM - 10 PM EST
     + Tue: 7 PM - 10 PM EST
