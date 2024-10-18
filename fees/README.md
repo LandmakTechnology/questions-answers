@@ -1,7 +1,7 @@
 FEE PAYMENT
 
  ## ✅1)	How much is the fee, and can I pay in installments?
-+ The fee is $3,600USD and can be paid in minimum installments of $700/month.($800 for the first month)
++ The fee is $3,000USD and can be paid in minimum installments of $750/month.($800 for the first month)
 + You can also pay the complete fee upfront. (recommended)
 + Please type your name and class as payment reference/message and send screen-shots to +1 437 215 2483 through WhatsApp/Telegram after each payment.
 
@@ -26,9 +26,9 @@ For Europe/Africa/Asia/American students:
     PayPal (And credit card payment)-- For payment through Paypal, request an invoice from +1 437 215 2483 or +1 437 221 3099
  
  ## ✅5)	How much is the fee, and can I pay in installments?
-+ The fee is $3,600 USD and can be paid in minimum installments of $700/month.($800 for the first month)
++ The fee is $3,000 USD and can be paid in minimum installments of $700/month.($800 for the first month)
 + You can also pay the complete fee upfront.
-+ Please type your name and class as payment reference/message and send screen-shots to Prof Legah at +1 437 215 2483 and +1 437 221 3099 through WhatsApp/Telegram after each payment.
++ Please type your name and class as payment reference/message and send screen-shots to Prof Legah at +1 437 215 2483 and +1 (647) 267-6399 through WhatsApp/Telegram after each payment.
     
 ## ✅5b) Fee payment for Nigerian students in Nigeria:
   + Bank Name; Access bank 
