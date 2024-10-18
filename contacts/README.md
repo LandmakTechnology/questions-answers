@@ -4,10 +4,8 @@
 ### **<span style="color:green">Telegram: <https://t.me/SimonLegah/></span>**
 ### **Email: mylandmarktech@gmail.com**
 ## Tel/Whatsapp and Telegram contacts
-+ +1 437 215 2483
-+ +1 437 221-3099   
++ +1 437 215 2483   
 + +1 647 267 6399
-+ +1 206 210 4445
 + +1 (470) 483-2473 
 ## Beware of scammers and hackers asking you to;
 + join fake meetings
