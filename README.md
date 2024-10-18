@@ -71,7 +71,7 @@ Please use the following link to convert between time zones as needed:  Use http
  ## ✅5)	How much is the fee, and can I pay in installments?
 + The fee is $ 3,000 USD and can be paid in minimum installments of $750/month.
 + You can also pay the complete fee upfront. (recommended)
-+ Please type your name and class as payment reference/message and send screen-shots to Prof Legah at +1 437 215 2483 and +1 437 221 3099 through WhatsApp/Telegram after each payment.
++ Please type your name and class as payment reference/message and send screen-shots to Prof Legah at +1 437 215 2483 and +1 647 267 6399  through WhatsApp/Telegram after each payment.
 + #### NB: Refrain from making Zelle or Cash App payments using phone numbers. Please use email only for transactions, sending payments to fees@mylandmarktech.com
 
 ## ✅5b) Fee payment for Cameroonian students in Cameroon:
@@ -89,7 +89,7 @@ Please use the following link to convert between time zones as needed:  Use http
 ## ✅6)	How can I pay my fees?
 + Pay using: Interact, ZELLE, CashApp 
 + Payment Email: fees@mylandmarktech.com   
-+ For payment through Paypal, request an invoice from +1 437 215 2483 or +1 437 221 3099 through WhatsApp
++ For payment through Paypal, request an invoice from +1 437 215 2483 or +1 647 267 6399  through WhatsApp
   
 ## ✅7)### Class37: 
 Class38: October 19, 2024 - February 2025
