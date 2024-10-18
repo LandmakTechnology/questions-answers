@@ -6,7 +6,6 @@
 ## Frequently asked questions and answers.
 ## Tel/Whatsapp and Telegram contacts
 + +1 437 215 2483
-+ +1 437 221 3099 
 + +1 647 267 6399  
 + +1 470 483 2473  
 
@@ -19,15 +18,15 @@
   
 
 ## ✅1b)	When is the next class starting?  
-###  Class37: July 16, 2024 - November 30, 2024   
-    + Time-Table
-    + Mon: 7 PM - 10 PM EST
-    + Tue: 7 PM - 10 PM EST
-    + Sat:: 7 PM - 10 PM EST 
+###  Class38: October 19, 2024 - February 2025
++ Thursdays: 07:00 PM- 10:00 PM EST
++ Saturdays: 8:00AM- 11:00AM EST
++ Sundays: 4:00 PM - 7:00 PM EST
+(EASTERN STANDARD TIME: NEWYORK/TORONTO TIMEZONE)
 Please use the following link to convert between time zones as needed:  Use https://www.timeanddate.com/worldclock/converter.html 
     
 ### ✅2)	I don't have an IT Background. Can I still do this course and succeed? 
-+ The course is designed with a step-by-step learning path, starting from the basics and gradually progressing to more advanced topics. This approach enables a smooth transition for beginners.
++ The course has a step-by-step learning path, starting from the basics and gradually progressing to more advanced topics. This approach enables a smooth transition for beginners.
 
 ### ✅3)	What is the average salary of a Landmark Trained DevOps Engineer? 
 + The average salary is about $150,000/yr. for a single job.
@@ -93,17 +92,16 @@ Please use the following link to convert between time zones as needed:  Use http
 + For payment through Paypal, request an invoice from +1 437 215 2483 or +1 437 221 3099 through WhatsApp
   
 ## ✅7)### Class37: 
-Class37: July 16, 2024 - November 30, 2024   
-    + Time-Table
-    + Mon: 7 PM - 10 PM EST
-    + Tue: 7 PM - 10 PM EST
-    + Sat:: 7 PM - 10 PM EST 
-
+Class38: October 19, 2024 - February 2025
++ Thursdays: 07:00 PM- 10:00 PM EST
++ Saturdays: 8:00AM- 11:00AM EST
++ Sundays: 4:00 PM - 7:00 PM EST
+  
 ## ✅8)	What is the duration of the course?  
 + 4.5 months plus free Bootcamp.
 
 ## ✅9)	Which kind of computer will I need for the course?
-+ A computer with at least 8GB RAM, 256G or 500G, 14 inches screen.
++ A laptop with at least 8GB RAM, 256G or 500G, and 14 inches screen.
 
 ## ✅10) Course bonuses?
 + BootCamp (Resume preparation, Linkedin profiling, and interview reviews).
@@ -119,4 +117,5 @@ Class37: July 16, 2024 - November 30, 2024
 + The Grace of God is at work in Landmark Technologies.
   
 Landmark 100% job-oriented DevOps E. Degree Master Program with AWS, Linux, and Kubernetes, have trained and graduated Engineers from backgrounds including; University Professors,  Pharmacists, CPAs, ACCAs, CFAs, Lawyers, Accountants, Bankers, Entrepreneurs, Nurses, RN, CNAs, Drivers, Scrum Master, Factory workers, PSW, DSW, students, etc.
+
 ## For a more visual experience, consider subscribing to our YouTube channel. Explore our videos by visiting: https://www.youtube.com/channel/UCa98yMG9Sxtcyk61li3jPwQ
