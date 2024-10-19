@@ -18,7 +18,7 @@
   
 
 ## ✅1b)	When is the next class starting?  
-###  Class38: October 19, 2024 - February 2025
+###  Class38: October 24, 2024 - February 2025
 + Thursdays: 07:00 PM- 10:00 PM EST
 + Saturdays: 8:00AM- 11:00AM EST
 + Sundays: 4:00 PM - 7:00 PM EST
@@ -92,7 +92,7 @@ Please use the following link to convert between time zones as needed:  Use http
 + For payment through Paypal, request an invoice from +1 437 215 2483 or +1 647 267 6399  through WhatsApp
   
 ## ✅7)### Class37: 
-Class38: October 19, 2024 - February 2025
+Class38: October 24, 2024 - February 2025
 + Thursdays: 07:00 PM- 10:00 PM EST
 + Saturdays: 8:00AM- 11:00AM EST
 + Sundays: 4:00 PM - 7:00 PM EST
