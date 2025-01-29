@@ -18,10 +18,10 @@
   
 
 ## ✅1b)	When is the next class starting?  
-###  Class38: October 24, 2024 - February 2025
-+ Thursdays: 07:00 PM- 10:00 PM EST
-+ Saturdays: 8:00AM- 11:00AM EST
-+ Sundays: 4:00 PM - 7:00 PM EST
+###  Class39: Feb 8, 2025 - June 2025
++ Mondays: 07:00 PM- 10:00 PM EST
++ Tuesdays: 07:00 PM- 10:00 PM EST
++ Saturdays: 07:00 PM- 10:00 PM EST
 (EASTERN STANDARD TIME: NEWYORK/TORONTO TIMEZONE)
 Please use the following link to convert between time zones as needed:  Use https://www.timeanddate.com/worldclock/converter.html 
     
@@ -91,11 +91,10 @@ Please use the following link to convert between time zones as needed:  Use http
 + Payment Email: fees@mylandmarktech.com   
 + For payment through Paypal, request an invoice from +1 437 215 2483 or +1 647 267 6399  through WhatsApp
   
-## ✅7)### Class37: 
-Class38: October 24, 2024 - February 2025
-+ Thursdays: 07:00 PM- 10:00 PM EST
-+ Saturdays: 8:00AM- 11:00AM EST
-+ Sundays: 4:00 PM - 7:00 PM EST
+## ✅7)### ###  Class39: Feb 8, 2025 - June 2025
++ Mondays: 07:00 PM- 10:00 PM EST
++ Tuesdays: 07:00 PM- 10:00 PM EST
++ Saturdays: 07:00 PM- 10:00 PM EST
   
 ## ✅8)	What is the duration of the course?  
 + 4.5 months plus free Bootcamp.
