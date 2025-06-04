@@ -8,7 +8,7 @@
     +1 437 215 2483
     +1 (647) 267-6399
     +1 (470) 483-2473
-    +1 (202) 888-2860 
+
 
 ### ✅1). Who can study Landmark DevOps E. Degree Master Program?
 + Anyone who graduated from High School.
