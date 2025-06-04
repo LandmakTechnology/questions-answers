@@ -19,10 +19,10 @@
   
 
 ## ✅1b)	When is the next class starting?  
-###  Class39: Feb 8, 2025 - June 2025
-+ Mondays: 07:00 PM- 10:00 PM EST
-+ Tuesdays: 07:00 PM- 10:00 PM EST
-+ Saturdays: 07:00 PM- 10:00 PM EST
+###  Class40: June 7 - Oct 31, 2025
++ Thursdays: 7PM -10PM EST
++ Saturdays: 8AM - 11AM EST
++ Sundays:   4PM - 7PM EST
 (EASTERN STANDARD TIME: NEWYORK/TORONTO TIMEZONE)
 Please use the following link to convert between time zones as needed:  Use https://www.timeanddate.com/worldclock/converter.html 
     
@@ -84,7 +84,7 @@ Please use the following link to convert between time zones as needed:  Use http
     
 ## ✅5c) Fee payment for Nigerian students in Nigeria:
   + Bank Name; Access bank 
-  + Account No:1792097045
+  + Account No: 1792097045
   + Account name: LANDMARKS TECHNOLOGIES SCHL NIG. LTD
    
 ## ✅6)	How can I pay my fees?
@@ -92,7 +92,7 @@ Please use the following link to convert between time zones as needed:  Use http
 + Payment Email: fees@mylandmarktech.com   
 + For payment through Paypal, request an invoice from +1 437 215 2483 or +1 647 267 6399  through WhatsApp
   
-## ✅7)### ###  Class39: Feb 8, 2025 - June 2025
+## ✅7)### ###  Class41: Sep 20, 2025 
 + Mondays: 07:00 PM- 10:00 PM EST
 + Tuesdays: 07:00 PM- 10:00 PM EST
 + Saturdays: 07:00 PM- 10:00 PM EST
