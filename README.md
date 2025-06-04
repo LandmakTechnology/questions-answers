@@ -84,8 +84,8 @@ Please use the following link to convert between time zones as needed:  Use http
     
 ## ✅5c) Fee payment for Nigerian students in Nigeria:
   + Bank Name; Access bank 
-  + Account No: 1792097045
-  + Account name: LANDMARKS TECHNOLOGIES SCHL NIG. LTD
+  + Account No:1933419572
+  + Account name: Simon Legah
    
 ## ✅6)	How can I pay my fees?
 + Pay using: Interact, ZELLE, CashApp 
