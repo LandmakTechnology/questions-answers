@@ -32,8 +32,8 @@ For Europe/Africa/Asia/American students:
     
 ## ✅5b) Fee payment for Nigerian students in Nigeria:
   + Bank Name; Access bank 
-  + Account No:1792097045
-  + Account name: LANDMARKS TECHNOLOGIES SCHL NIG. LTD
+  + Account No:1933419572
+  + Account name: Simon Legah
   + payable in 5 installments
    
 ## ✅5c) Fee payment for UK students:
