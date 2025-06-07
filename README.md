@@ -19,7 +19,7 @@
   
 
 ## ✅1b)	When is the next class starting?  
-###  Class40: June 7 - Oct 31, 2025
+###  Class40: June 12 - Oct 31, 2025
 + Thursdays: 7PM -10PM EST
 + Saturdays: 8AM - 11AM EST
 + Sundays:   4PM - 7PM EST
