@@ -79,7 +79,7 @@ Please use the following link to convert between time zones as needed:  Use http
     MTN momo numbers. 
     +237 675306766 (SIMON LEGAH )
     +237 672649710 (CUCCAS 3 )
-    Amount = 2,000,000frs
+    Amount = 1,600,000frs
     500,000frs/month
     
 ## ✅5c) Fee payment for Nigerian students in Nigeria:
