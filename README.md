@@ -19,10 +19,10 @@
   
 
 ## ✅1b)	When is the next class starting?  
-###  Class40: June 12 - Oct 31, 2025
-+ Thursdays: 7PM -10PM EST
-+ Saturdays: 8AM - 11AM EST
-+ Sundays:   4PM - 7PM EST
+###  Class41: Sept 27, 2025 - Fep 28, 2026
++ Mondays: 7PM - 10PM EST
++ Tuesdays: 7PM - 10PM EST
++ Saturdays:   7PM - 10PM EST
 (EASTERN STANDARD TIME: NEWYORK/TORONTO TIMEZONE)
 Please use the following link to convert between time zones as needed:  Use https://www.timeanddate.com/worldclock/converter.html 
     
@@ -79,7 +79,7 @@ Please use the following link to convert between time zones as needed:  Use http
     MTN momo numbers. 
     +237 675306766 (SIMON LEGAH )
     +237 672649710 (CUCCAS 3 )
-    Amount = 1,600,000frs
+    Amount = 1,700,000frs
     500,000frs/month
     
 ## ✅5c) Fee payment for Nigerian students in Nigeria:
@@ -92,7 +92,7 @@ Please use the following link to convert between time zones as needed:  Use http
 + Payment Email: fees@mylandmarktech.com   
 + For payment through Paypal, request an invoice from +1 437 215 2483 or +1 647 267 6399  through WhatsApp
   
-## ✅7)### ###  Class41: Sep 20, 2025 
+## ✅7)### ###  Class41: Sep 27, 2025 
 + Mondays: 07:00 PM- 10:00 PM EST
 + Tuesdays: 07:00 PM- 10:00 PM EST
 + Saturdays: 07:00 PM- 10:00 PM EST
