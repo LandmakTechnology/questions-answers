@@ -19,10 +19,10 @@
   
 
 ## ✅1b)	When is the next class starting?  
-###  Class41: Sept 27, 2025 - Fep 28, 2026
-+ Mondays: 7PM - 10PM EST
-+ Tuesdays: 7PM - 10PM EST
-+ Saturdays:   7PM - 10PM EST
+###  Class42: February 28, 2026 - July 24, 2026
++ Thursdays: 7PM - 10PM EST
++ Saturdays: 8AM - 11PM EST
++ Sundays:   4PM - 7PM EST
 (EASTERN STANDARD TIME: NEWYORK/TORONTO TIMEZONE)
 Please use the following link to convert between time zones as needed:  Use https://www.timeanddate.com/worldclock/converter.html 
     
