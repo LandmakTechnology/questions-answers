@@ -79,15 +79,10 @@ Please use the following link to convert between time zones as needed:  Use http
 ## ✅5b) Fee payment for Cameroonian students in Cameroon:
     MTN momo numbers. 
     +237 675306766 (SIMON LEGAH )
-    +237 672649710 (CUCCAS 3 )
-    Amount = 1,700,000frs
-    500,000frs/month
+    Amount = 1,600,000frs
+    400,000frs/month
     
 ## ✅5c) Fee payment for Nigerian students in Nigeria:
-  + Bank Name; Access bank 
-  + Account No:1933419572
-  + Account name: Simon Legah
-
   + Bank name: Zenith Bank
   + Acct No: 2432218860
   + Account name: Simon Legah
