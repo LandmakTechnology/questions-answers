@@ -19,10 +19,10 @@
   
 
 ## ✅1b)	When is the next class starting?  
-###  Class43: June 23 - Nov 23, 2026
-+ Mondays: 7PM - 10PM EST
-+ Tuesdays: 7PM - 10PM EST
-+ Saturdays: 7PM - 10PM EST
+###  Class44: Nov 12, 2026
++ Thursdays: 7PM - 10PM EST
++ Saturdays: 11AM - 2PM EST
++ SUNDAYS: 4PM - 7PM EST
 
 (EASTERN STANDARD TIME: NEWYORK/TORONTO TIMEZONE)
 Please use the following link to convert between time zones as needed:  Use https://www.timeanddate.com/worldclock/converter.html 
@@ -92,10 +92,7 @@ Please use the following link to convert between time zones as needed:  Use http
 + Payment Email: fees@mylandmarktech.com   
 + For payment through Paypal, request an invoice from +1 437 215 2483 or +1 647 267 6399  through WhatsApp
   
-## ✅7)### ###  Class44: Sep 26, 2026 
-+ Mondays: 07:00 PM- 10:00 PM EST
-+ Tuesdays: 07:00 PM- 10:00 PM EST
-+ Saturdays: 07:00 PM- 10:00 PM EST
+
   
 ## ✅8)	What is the duration of the course?  
 + 4.5 months plus free Bootcamp.
